@@ -1,0 +1,25 @@
+version: '3.4'
+
+services:
+    
+  # DATA SCIENCE MODULE
+  ## Reimplement this section if you're taking the data science test!
+  deployment:
+    build:
+      context: ./modules  # need this context in order to be able to copy the MLE nodule to the Docker image
+      dockerfile: ./deployment/docker/Dockerfile
+    container_name: deployment
+    ports:
+      - "5000:5000"
+    environment:
+      - FLASK_APP=app.py
+      - FLASK_DEBUG=1
+      - DS_DB_USER=admin  
+      - DS_DB_PASSWORD=admin    # password for the DB admin user
+      - DB_HOSTNAME=172.26.0.2
+      - DB_PORT=5432
+      - PYTHONUNBUFFERED=1
+    
+    volumes:
+      - ./modules/ds/models/:/models
+      - ./modules/deployment/logs/:/api/logs
