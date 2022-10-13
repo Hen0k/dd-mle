@@ -1,0 +1,13 @@
+{"message": null, "attr_a": 3, "attr_b": "d", "scd_a": 0.59, "scd_b": 4, "predicted": "0", "idx": 1009, "timestamp": "2022-10-12 23:43:24.132031"}
+{"message": null, "attr_a": 3, "attr_b": "d", "scd_a": 0.59, "scd_b": 4, "predicted": "0", "idx": 1009, "timestamp": "2022-10-12 23:43:47.581035"}
+{"message": null, "attr_a": 3, "attr_b": "d", "scd_a": 0.59, "scd_b": 4, "predicted": "0", "idx": 1009, "timestamp": "2022-10-12 23:51:12.801310"}
+{"message": null, "attr_a": 3, "attr_b": "d", "scd_a": 0.59, "scd_b": 4, "predicted": "0", "idx": 1009, "timestamp": "2022-10-12 23:52:27.879226"}
+{"message": null, "attr_a": 3, "attr_b": "d", "scd_a": 0.59, "scd_b": 4, "predicted": "0", "idx": 1009, "timestamp": "2022-10-12 23:54:56.353373"}
+{"message": null, "attr_a": 3, "attr_b": "d", "scd_a": 0.59, "scd_b": 4, "predicted": "0", "idx": 1009, "timestamp": "2022-10-13 00:02:23.139589"}
+{"message": null, "attr_a": 1, "attr_b": "c", "scd_a": 0.55, "scd_b": 3, "predicted": "0", "idx": 15000, "timestamp": "2022-10-13 00:02:52.746854"}
+{"message": null, "attr_a": 3, "attr_b": "c", "scd_a": 0.3504786947163524, "scd_b": 3, "predicted": "0", "idx": 7, "timestamp": "2022-10-13 00:04:37.849138"}
+{"message": null, "attr_a": 3, "attr_b": "c", "scd_a": 0.3504786947163524, "scd_b": 3, "predicted": "0", "idx": 7, "timestamp": "2022-10-13 00:12:55.984726"}
+{"message": null, "attr_a": 1, "attr_b": "c", "scd_a": 0.55, "scd_b": 3, "predicted": "0", "idx": 15000, "timestamp": "2022-10-13 00:13:14.754800"}
+{"message": null, "attr_a": 1, "attr_b": "c", "scd_a": 0.55, "scd_b": 3, "predicted": "0", "idx": 15000, "timestamp": "2022-10-13 00:13:15.970932"}
+{"message": null, "attr_a": 1, "attr_b": "c", "scd_a": 0.55, "scd_b": 3, "predicted": "0", "idx": 15000, "timestamp": "2022-10-13 00:31:17.025559"}
+{"message": null, "attr_a": 1, "attr_b": "c", "scd_a": 0.55, "scd_b": 3, "predicted": "0", "idx": 15000, "timestamp": "2022-10-13 00:31:20.023864"}
